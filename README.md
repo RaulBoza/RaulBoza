@@ -2,7 +2,7 @@
 
 I am a full-stack software developer with several years of experience. I would say I have a somewhat multidisciplinary profile:
 
-- I have developed mobile apps for both Android and iOS.
+- I have developed mobile apps for both **'Android and iOS'**.
 
 - I have created e-commerce websites for local businesses.
 
