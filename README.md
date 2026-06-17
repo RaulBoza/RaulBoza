@@ -1,4 +1,4 @@
-#🐐 Raúl Boza González
+# 🐐 Raúl Boza González
 
 I am a full-stack software developer with several years of experience. I would say I have a somewhat multidisciplinary profile:
 
