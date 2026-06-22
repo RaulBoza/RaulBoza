@@ -11,7 +11,7 @@ I am a full-stack software developer with several years of experience. I would s
 ## Skills
 #
 - Android, Java, Kotlin, XCode, Swift
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
           
 #
 
