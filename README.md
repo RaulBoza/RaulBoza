@@ -7,6 +7,12 @@ I am a full-stack software developer with several years of experience. I would s
 - I have learned game programming and design in many engines 🎮
 - I have 3D modeling of interiors, exteriors, and even characters 🏠
 - I have learned to write unit and end-to-end tests 📈📉
+---
+## Skills
+
+
+
+
 <!--
 **RaulBoza/RaulBoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
