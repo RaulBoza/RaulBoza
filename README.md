@@ -10,6 +10,8 @@ I am a full-stack software developer with several years of experience. I would s
 ---
 ## Skills
 
+#
+#
 
 
 
