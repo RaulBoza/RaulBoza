@@ -9,8 +9,10 @@ I am a full-stack software developer with several years of experience. I would s
 - I have learned to write unit and end-to-end tests 📈📉
 ---
 ## Skills
-
 #
+- Android, Java, Kotlin, XCode, Swift
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
+          
 #
 
 
