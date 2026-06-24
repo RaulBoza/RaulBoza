@@ -9,7 +9,7 @@ I am a full-stack software developer with several years of experience. I would s
 - I have learned to write unit and end-to-end tests 📈📉
 ---
 ## Skills
-C#, .Net.
+C# - .Net
 
 <img alt="C#" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 <img alt=".Net" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
@@ -18,7 +18,7 @@ C#, .Net.
 
 #
 
-Selenium, Playwright.
+Selenium - Playwright
 
 <img alt="Selenium" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 <img alt=".Net" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
@@ -27,7 +27,7 @@ Selenium, Playwright.
 
 #
 
-Android, Java, Kotlin, XCode, Swift.
+Android - Java - Kotlin - XCode - Swift
 
 <img alt="Android" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
 <img alt="Java" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
@@ -38,7 +38,7 @@ Android, Java, Kotlin, XCode, Swift.
 
 #
 
-HTML, CSS, Bootstrap
+HTML - CSS - Bootstrap
 
 <img alt="HTML5" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img alt="CSS3" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
@@ -48,7 +48,7 @@ HTML, CSS, Bootstrap
 
 #
 
-Unity, Unreal, Godot
+Unity - Unreal - Godot
 
 <img alt="Unity" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 <img alt="Unreal" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
@@ -58,7 +58,7 @@ Unity, Unreal, Godot
 
 #
 
-3DsMax, Zbrush, Maya, Substance Pinter, Mixamo, Blender
+3DsMax - Zbrush - Maya - Substance Pinter - Mixamo - Blender
 
 <img alt="3DsMax" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
 <img alt="Maya" align="left" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maya/maya-original.svg" />
