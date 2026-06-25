@@ -68,6 +68,12 @@ Unity - Unreal - Godot
 
 #
 
+## Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulboza&repo=gestordeprestaciones&theme=merko)](https://github.com/raulboza/GestorDePrestaciones)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulboza&repo=eoi_net_testing&theme=merko)](https://github.com/raulboza/EOI_NET_TESTING)
 
 <!--
 **RaulBoza/RaulBoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
