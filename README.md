@@ -79,7 +79,7 @@ Unity - Unreal - Godot
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulboza&layout=donut)](https://github.com/raulboza)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulboza&layout=donut&hide=Shell,Powershell)](https://github.com/raulboza)
 <!--
 **RaulBoza/RaulBoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
