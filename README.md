@@ -67,20 +67,19 @@ Unity - Unreal - Godot
 <br/>
 
 ---
+<!--
 
 ## Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulboza&repo=gestordeprestaciones&theme=merko)](https://github.com/raulboza/GestorDePrestaciones)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=raulboza&repo=gestor-prestaciones&theme=merko)](https://github.com/RaulBoza/GestorDePrestaciones)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raulboza&repo=eoi_net_testing&theme=merko)](https://github.com/raulboza/EOI_NET_TESTING)
-
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=anuraghazra&repo=type-trident)](https://github.com/anuraghazra/type-trident)
 
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raulboza&layout=donut&hide=Shell,Powershell)](https://github.com/raulboza)
-<!--
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+
 **RaulBoza/RaulBoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
